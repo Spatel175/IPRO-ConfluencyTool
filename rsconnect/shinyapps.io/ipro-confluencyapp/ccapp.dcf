@@ -1,0 +1,13 @@
+name: ccapp
+title:
+username: ipro-confluencyapp
+account: ipro-confluencyapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9633651
+bundleId: 7586151
+url: https://ipro-confluencyapp.shinyapps.io/ccapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: images/cell_2_testHiRes.jpg:Zone.Identifier|images/hepg2_cellHiRes.jpg:Zone.Identifier
